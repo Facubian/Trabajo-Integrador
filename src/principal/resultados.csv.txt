@@ -1,0 +1,2 @@
+Argentina	2	1	Peru
+Marruecos	0	3	Colombia
